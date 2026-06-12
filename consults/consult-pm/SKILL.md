@@ -1,12 +1,6 @@
+---
 name: consult-pm
-description: >
-Trigger this skill when the user asks for advice, decisions, or analysis
-related to project management — including scope, planning, timeline,
-budget, risk, stakeholder management, team coordination, methodology
-(Agile/Waterfall/Hybrid), dependencies, quality, vendor management,
-or lessons learned. Also trigger when the user is stuck on a trade-off
-decision or needs help thinking through a PM-related problem.
-
+description: Trigger this skill when the user asks for advice, decisions, or analysis related to project management — including scope, planning, timeline, budget, risk, stakeholder management, team coordination, methodology (Agile/Waterfall/Hybrid), dependencies, quality, vendor management, or lessons learned. Also trigger when the user is stuck on a trade-off decision or needs help thinking through a PM-related problem.
 ---
 
 # Consult: Project Manager (PM)

@@ -1,11 +1,6 @@
+---
 name: consult-engineer
-description: >
-Use this skill when the user wants to consult, get an opinion, or make a
-technical decision on any engineering topic — such as code quality, architecture,
-tech stack, system design, tech debt, scalability, or build vs buy. Trigger when
-the user asks "consult engineer", "ปรึกษา engineer", or asks for engineering
-advice, a second opinion, or help deciding between technical approaches.
-
+description: Use this skill when the user wants to consult, get an opinion, or make a technical decision on any engineering topic — such as code quality, architecture, tech stack, system design, tech debt, scalability, or build vs buy. Trigger when the user asks "consult engineer", "ปรึกษา engineer", or asks for engineering advice, a second opinion, or help deciding between technical approaches.
 ---
 
 # Consult Engineer
